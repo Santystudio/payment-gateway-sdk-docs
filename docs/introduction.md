@@ -17,7 +17,7 @@ This SDK allows developers to seamlessly integrate secure payment processing int
 - Backend (Node.js, Python)
 
 ### 📚 What’s Inside
-- [Installation](installation.md)
+- [Installation](Installation.md)
 - [Authentication](authentication.md)
 - [API Reference](api-reference.md)
 - [Error Handling](error-handling.md)
