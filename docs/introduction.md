@@ -1,27 +1,47 @@
-# Introduction
+---
+Title: Introduction
+Description: Overview of the Payment Gateway SDK and its capabilities
+---
 
-Welcome to the Payment Gateway SDK Documentation 👋
+# Payment Gateway SDK
 
-This SDK allows developers to seamlessly integrate secure payment processing into their applications using popular gateways like Stripe, Razorpay, and PayPal.
+The Payment Gateway SDK provides developers with a streamlined interface to integrate secure, scalable payment processing into their applications. Whether you're building an e-commerce platform, a subscription service, or a custom billing system, this SDK simplifies the complexities of payment workflows.
 
-### 🔑 Key Features
-- Easy-to-use API for initiating and verifying payments
-- Built-in support for multiple payment providers
-- Secure authentication using API keys and tokens
-- Real-time transaction status updates
-- Error handling and logging utilities
+---
 
-### 🖥️ Supported Platforms
-- Web (JavaScript/TypeScript)
-- Mobile (React Native, Flutter)
-- Backend (Node.js, Python)
+## 🚀 Key Features
 
-### 📚 What’s Inside
-- [Installation](docs/installation.md)
-- [Authentication](docs/authentication.md)
-- [API Reference](docs/api-reference.md)
-- [Error Handling](docs/error-handling.md)
-- [Examples](docs/examples.md)
+- **Unified API Layer**: Interact with multiple payment providers using a consistent interface
+- **Secure Transactions**: Built-in support for authentication, encryption, and tokenization
+- **Modular Design**: Easily extend or customize components to fit your architecture
+- **Developer-Friendly**: Clear documentation, error handling, and sandbox support
 
-Let’s get started and make payments frictionless 💸
+---
 
+## 🧩 Use Cases
+
+- Accepting credit/debit card payments
+- Managing recurring subscriptions
+- Handling refunds and chargebacks
+- Integrating with third-party payment gateways
+
+---
+
+## 📦 What's Included
+
+- Core SDK modules
+- Sample integration scripts
+- Environment configuration templates
+- Full API reference
+
+---
+
+## 🛠️ Requirements
+
+- Node.js v16+  
+- npm v8+  
+- Access to a supported payment provider (e.g., Stripe, Razorpay, PayPal)
+
+---
+
+Ready to get started? Head to the [Installation Guide](./installation.md) to set up your environment.
