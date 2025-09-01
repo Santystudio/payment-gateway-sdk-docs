@@ -37,11 +37,6 @@ Clone this repository and explore the `docs/` folder. Each file is written in Ma
 git clone https://github.com/SanthoshNandham/payment-gateway-sdk-docs.git
 
 
----
-
-Let’s roll into `installation.md` next and make it just as crisp. And yes — since this is a pure documentation repo, you can absolutely uninstall Node.js and npm if you’re not using them for anything else. You’re building clarity, not compiling code 💪
-
-
 🧠 Author & Vision
 Crafted by Santhosh,
 
