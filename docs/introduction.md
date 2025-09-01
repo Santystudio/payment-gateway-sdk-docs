@@ -1,5 +1,6 @@
 ---
 Title: Introduction
+
 Description: Overview of the Payment Gateway SDK and its capabilities
 ---
 
